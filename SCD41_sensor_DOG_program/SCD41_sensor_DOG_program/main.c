@@ -1,7 +1,6 @@
 /**
  * @file main.c
  *
- * Created: 4/21/2022 3:24:54 PM
  * Author : jhuan
  */ 
 
