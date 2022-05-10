@@ -1,7 +1,6 @@
 /*
  * usart3_avr128_cir_buff.c
  *
- * Created: 3/9/2022 7:59:38 PM
  * Author : jhuan
  */ 
 
